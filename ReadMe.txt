@@ -1,4 +1,4 @@
-KorgLogue/STM32/PC Audio framework.
+KorgLogue/ESP32/PC Audio framework.
 
 This is a small framework which I wrote to make development of custom oscillators for the 
 Korg NTS-1 easier. In fact, I am using this for the STM32, which is even more powerful.
